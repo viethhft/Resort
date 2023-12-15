@@ -8,6 +8,11 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Resort_Demo_Project.styles.css" asp-append-version="true" />
 
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <!-- <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png"> có icon thì quăng vào đây-->
+    <!-- Place favicon.ico in the root directory -->
     <!-- CSS here -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -23,6 +28,10 @@
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 <body>
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    <!-- header-start -->
     <header>
         <div class="header-area ">
             <div id="sticky-header" class="main-header-area">
@@ -56,7 +65,7 @@
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo-img">
                                 <a href="index.html">
-                                    <img src="~/img/logo.png" alt="">
+                                    <img src="img/logo.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -94,15 +103,14 @@
             </div>
         </div>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+    <!-- header-end -->
+    <div>
+        @RenderBody()
     </div>
     <!-- footer -->
-    <footer class="footer container-fluid">
+    <footer class="footer">
         <div class="footer_top">
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row">
                     <div class="col-xl-3 col-md-6 col-lg-3">
                         <div class="footer_widget">
@@ -191,6 +199,7 @@
     </footer>
 
     <!-- link that opens popup -->
+    <!-- form itself end-->
     <form id="test-form" class="white-popup-block mfp-hide">
         <div class="popup_box ">
             <div class="popup_inner">
@@ -237,35 +246,34 @@
         </div>
     </form>
     <!-- form itself end -->
-
     <!-- JS here -->
-    <script src="~/js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="~/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="~/js/popper.min.js"></script>
-    <script src="~/js/bootstrap.min.js"></script>
-    <script src="~/js/owl.carousel.min.js"></script>
-    <script src="~/js/isotope.pkgd.min.js"></script>
-    <script src="~/js/ajax-form.js"></script>
-    <script src="~/js/waypoints.min.js"></script>
-    <script src="~/js/jquery.counterup.min.js"></script>
-    <script src="~/js/imagesloaded.pkgd.min.js"></script>
-    <script src="~/js/scrollIt.js"></script>
-    <script src="~/js/jquery.scrollUp.min.js"></script>
-    <script src="~/js/wow.min.js"></script>
-    <script src="~/js/nice-select.min.js"></script>
-    <script src="~/js/jquery.slicknav.min.js"></script>
-    <script src="~/js/jquery.magnific-popup.min.js"></script>
-    <script src="~/js/plugins.js"></script>
-    <script src="~/js/gijgo.min.js"></script>
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/ajax-form.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/scrollIt.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/nice-select.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/gijgo.min.js"></script>
 
     <!--contact js-->
-    <script src="~/js/contact.js"></script>
-    <script src="~/js/jquery.ajaxchimp.min.js"></script>
-    <script src="~/js/jquery.form.js"></script>
-    <script src="~/js/jquery.validate.min.js"></script>
-    <script src="~/js/mail-script.js"></script>
+    <script src="js/contact.js"></script>
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/mail-script.js"></script>
 
-    <script src="~/js/main.js"></script>
+    <script src="js/main.js"></script>
     <script>
         $('#datepicker').datepicker({
             iconsLibrary: 'fontawesome',
@@ -282,9 +290,6 @@
         });
     </script>
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>
