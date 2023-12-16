@@ -1,8 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using Resort_Demo_Project.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddDbContext<MyContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Resort"));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
