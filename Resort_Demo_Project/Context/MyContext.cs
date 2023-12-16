@@ -9,20 +9,20 @@ namespace Resort_Demo_Project.Context
 		{
 
 		}
-		DbSet<User> Users { get; set; }
-		DbSet<UserDetail> UserDetails { get; set; }
-		DbSet<Role> Roles { get; set; }
-		DbSet<Resort> Resorts { get; set; }
-		DbSet<ResortDetail> ResortDetails { get; set; }
-		DbSet<ResortDetailServices> ResortDetailServices { get; set; }
-		DbSet<Rate> Rates { get; set; }
-		DbSet<Province> Provinces { get; set; }
-		DbSet<District> Districts { get; set; }
-		DbSet<Commune> Communes { get; set; }
-		DbSet<Service> Services { get; set; }
-		DbSet<Convenient> Convenients { get; set; }
-		DbSet<ConvenientResort> ConvenientResorts { get; set; }
-		DbSet<TypeRoom> TypeRooms { get; set; }
-		DbSet<TypeRoomResortDetail> TypeRoomResortDetails { get; set; }
+		public DbSet<User> Users { get; set; }
+		public DbSet<UserDetail> UserDetails { get; set; }
+		public DbSet<Role> Roles { get; set; }
+		public DbSet<Resort> Resorts { get; set; }
+		public DbSet<ResortDetail> ResortDetails { get; set; }
+		public DbSet<ResortDetailServices> ResortDetailServices { get; set; }
+		public DbSet<Rate> Rates { get; set; }
+		public DbSet<Province> Provinces { get; set; }
+		public DbSet<District> Districts { get; set; }
+		public DbSet<Commune> Communes { get; set; }
+		public DbSet<Service> Services { get; set; }
+		public DbSet<Convenient> Convenients { get; set; }
+		public DbSet<ConvenientResort> ConvenientResorts { get; set; }
+		public DbSet<TypeRoom> TypeRooms { get; set; }
+		public DbSet<TypeRoomResortDetail> TypeRoomResortDetails { get; set; }
 	}
 }
