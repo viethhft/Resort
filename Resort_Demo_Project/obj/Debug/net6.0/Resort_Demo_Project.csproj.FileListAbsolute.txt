@@ -111,9 +111,7 @@ C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\staticwebasset
 C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Resort_Demo_Project.props
 C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Resort_Demo_Project.props
 C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\scopedcss\bundle\Resort_Demo_Project.styles.css
-C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\scopedcss\projectbundle\Resort_Demo_Project.bundle.scp.css
 C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\Resort_Demo_Project.dll
 C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\refint\Resort_Demo_Project.dll
 C:\Users\ASUS\Desktop\Soucre\Resort_Demo_Project\obj\Debug\net6.0\Resort_Demo_Project.pdb
