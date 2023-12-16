@@ -678,7 +678,8 @@ h3 {
             .header-area .main-header-area .book_room .book_btn a:hover {
                 background: #fff;
                 color: #009DFF;
-                border: 1px solid #009DFF
+                border: 1px solid #009DFF;
+                cursor: pointer;
             }
 
 .header-area .main-header-area .main-menu {
@@ -1673,12 +1674,14 @@ h3 {
 }
 
 .footer {
-    background: #000
+    background: #000;
+    position:relative!important;
+    padding-top:38px;
 }
 
     .footer .footer_top {
-        padding-top: 145px;
-        padding-bottom: 129px
+        padding-top: 10px;
+        line-height: 0px;
     }
 
 @media (max-width: 767px) {
@@ -1763,7 +1766,11 @@ h3 {
         background: #009DFF;
         padding: 10px;
         padding: 0 22px;
-        cursor: pointer
+        cursor: pointer;
+    }
+
+    .footer .footer_top .footer_widget .newsletter_form button:hover {
+        background-color:green;
     }
 
 .footer .footer_top .footer_widget .newsletter_text {

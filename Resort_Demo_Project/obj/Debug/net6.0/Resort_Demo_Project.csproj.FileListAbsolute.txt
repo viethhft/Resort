@@ -51,9 +51,7 @@ D:\resort\Resort_Demo_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTran
 D:\resort\Resort_Demo_Project\obj\Debug\net6.0\staticwebassets.pack.json
 D:\resort\Resort_Demo_Project\obj\Debug\net6.0\staticwebassets.build.json
 D:\resort\Resort_Demo_Project\obj\Debug\net6.0\staticwebassets.development.json
-D:\resort\Resort_Demo_Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\resort\Resort_Demo_Project\obj\Debug\net6.0\scopedcss\bundle\Resort_Demo_Project.styles.css
-D:\resort\Resort_Demo_Project\obj\Debug\net6.0\scopedcss\projectbundle\Resort_Demo_Project.bundle.scp.css
 D:\resort\Resort_Demo_Project\obj\Debug\net6.0\Resort_Demo_Project.dll
 D:\resort\Resort_Demo_Project\obj\Debug\net6.0\refint\Resort_Demo_Project.dll
 D:\resort\Resort_Demo_Project\obj\Debug\net6.0\Resort_Demo_Project.pdb
