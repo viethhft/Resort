@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {}
+    "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {
+    "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
         "projectName": "Resort_Demo_Project",
-        "projectPath": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.14, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [
