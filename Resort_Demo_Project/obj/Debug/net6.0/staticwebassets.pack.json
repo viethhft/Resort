@@ -1,1852 +1,944 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\animate.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\flaticon.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\gijgo.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\gijgo.css",
       "PackagePath": "staticwebassets\\css\\gijgo.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\nice-select.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\slicknav.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\slicknav.css",
       "PackagePath": "staticwebassets\\css\\slicknav.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\style.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\style.map",
       "PackagePath": "staticwebassets\\css\\style.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\theme-default.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\theme-default.css",
       "PackagePath": "staticwebassets\\css\\theme-default.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\theme-default.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\theme-default.map",
       "PackagePath": "staticwebassets\\css\\theme-default.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\themify-icons.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\css\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.eot",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.svg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.svg",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.ttf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.woff2",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\flaticon.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\flaticon.css",
       "PackagePath": "staticwebassets\\fonts\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.eot",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.eot",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.svg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.svg",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.ttf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.ttf",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.woff",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\gijgo-material.woff",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.eot",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\fonts\\themify.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.svg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\fonts\\themify.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.woff",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img.zip",
-      "PackagePath": "staticwebassets\\img.zip"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\1.png",
       "PackagePath": "staticwebassets\\img\\about\\1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\2.png",
       "PackagePath": "staticwebassets\\img\\about\\2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\about_1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\about_1.png",
       "PackagePath": "staticwebassets\\img\\about\\about_1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\about_2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\about\\about_2.png",
       "PackagePath": "staticwebassets\\img\\about\\about_2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\about_banner.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\about_banner.png",
       "PackagePath": "staticwebassets\\img\\banner\\about_banner.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\banner.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\banner.png",
       "PackagePath": "staticwebassets\\img\\banner\\banner.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\banner2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\banner2.png",
       "PackagePath": "staticwebassets\\img\\banner\\banner2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\bradcam.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\bradcam.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\bradcam2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\bradcam2.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\bradcam3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\banner\\bradcam3.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\author.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\author.png",
       "PackagePath": "staticwebassets\\img\\blog\\author.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_4.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\learn_about_bg.png",
       "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_4.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_5.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\single_blog_5.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\blog\\slide_thumb_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\comment\\comment_1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\comment\\comment_1.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\comment\\comment_2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\comment\\comment_2.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\comment\\comment_3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\comment\\comment_3.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\a.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\a.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\a2.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\a2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\d.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\d.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\disabled-check.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\disabled-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\disabled-radio.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\disabled-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f1.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f1.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f2.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f3.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f3.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f4.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f4.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f5.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f5.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f6.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f6.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f7.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f7.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f8.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\f8.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g1.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g1.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g2.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g3.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g3.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g4.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g4.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g5.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g5.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g6.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g6.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g7.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g7.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g8.jpg",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\g8.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\primary-check.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\primary-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\primary-radio.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\primary-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\success-check.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\success-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\success-radio.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\elements\\success-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\favicon.ico",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\favicon.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\footer-logo.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\footer-logo.png",
       "PackagePath": "staticwebassets\\img\\footer-logo.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\1.png",
       "PackagePath": "staticwebassets\\img\\instragram\\1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\2.png",
       "PackagePath": "staticwebassets\\img\\instragram\\2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\3.png",
       "PackagePath": "staticwebassets\\img\\instragram\\3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\4.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\4.png",
       "PackagePath": "staticwebassets\\img\\instragram\\4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\5.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\instragram\\5.png",
       "PackagePath": "staticwebassets\\img\\instragram\\5.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\logo2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\logo2.png",
       "PackagePath": "staticwebassets\\img\\logo2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\offers\\1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\offers\\1.png",
       "PackagePath": "staticwebassets\\img\\offers\\1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\offers\\2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\offers\\2.png",
       "PackagePath": "staticwebassets\\img\\offers\\2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\offers\\3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\offers\\3.png",
       "PackagePath": "staticwebassets\\img\\offers\\3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\next.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\next.png",
       "PackagePath": "staticwebassets\\img\\post\\next.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_1.png",
       "PackagePath": "staticwebassets\\img\\post\\post_1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_10.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_10.png",
       "PackagePath": "staticwebassets\\img\\post\\post_10.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_2.png",
       "PackagePath": "staticwebassets\\img\\post\\post_2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_3.png",
       "PackagePath": "staticwebassets\\img\\post\\post_3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_4.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_4.png",
       "PackagePath": "staticwebassets\\img\\post\\post_4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_5.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_5.png",
       "PackagePath": "staticwebassets\\img\\post\\post_5.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_6.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_6.png",
       "PackagePath": "staticwebassets\\img\\post\\post_6.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_7.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_7.png",
       "PackagePath": "staticwebassets\\img\\post\\post_7.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_8.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_8.png",
       "PackagePath": "staticwebassets\\img\\post\\post_8.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_9.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\post_9.png",
       "PackagePath": "staticwebassets\\img\\post\\post_9.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\preview.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\post\\preview.png",
       "PackagePath": "staticwebassets\\img\\post\\preview.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\1.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\1.png",
       "PackagePath": "staticwebassets\\img\\rooms\\1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\2.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\2.png",
       "PackagePath": "staticwebassets\\img\\rooms\\2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\3.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\3.png",
       "PackagePath": "staticwebassets\\img\\rooms\\3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\4.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\rooms\\4.png",
       "PackagePath": "staticwebassets\\img\\rooms\\4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\video\\video.png",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\img\\video\\video.png",
       "PackagePath": "staticwebassets\\img\\video\\video.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\ajax-form.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\ajax-form.js",
       "PackagePath": "staticwebassets\\js\\ajax-form.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\contact.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\gijgo.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\gijgo.min.js",
       "PackagePath": "staticwebassets\\js\\gijgo.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.ajaxchimp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.counterup.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.form.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.form.js",
       "PackagePath": "staticwebassets\\js\\jquery.form.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.slicknav.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.slicknav.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\mail-script.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\mail-script.js",
       "PackagePath": "staticwebassets\\js\\mail-script.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\nice-select.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\nice-select.min.js",
       "PackagePath": "staticwebassets\\js\\nice-select.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\plugins.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\popper.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\scrollIt.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\scrollIt.js",
       "PackagePath": "staticwebassets\\js\\scrollIt.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\waypoints.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\waypoints.min.js",
       "PackagePath": "staticwebassets\\js\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\wow.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_about.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_about.scss",
       "PackagePath": "staticwebassets\\scss\\_about.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_blog.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_blog.scss",
       "PackagePath": "staticwebassets\\scss\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_blog_part.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_blog_part.scss",
       "PackagePath": "staticwebassets\\scss\\_blog_part.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_bradcam.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_bradcam.scss",
       "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_btn.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_btn.scss",
       "PackagePath": "staticwebassets\\scss\\_btn.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_contact.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_contact.scss",
       "PackagePath": "staticwebassets\\scss\\_contact.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_elements.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_elements.scss",
       "PackagePath": "staticwebassets\\scss\\_elements.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_extend.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_extend.scss",
       "PackagePath": "staticwebassets\\scss\\_extend.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_footer.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\scss\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_header.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_header.scss",
       "PackagePath": "staticwebassets\\scss\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_offers.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_offers.scss",
       "PackagePath": "staticwebassets\\scss\\_offers.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_responsive.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_responsive.scss",
       "PackagePath": "staticwebassets\\scss\\_responsive.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_section_title.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_section_title.scss",
       "PackagePath": "staticwebassets\\scss\\_section_title.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_slick-nav.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_slick-nav.scss",
       "PackagePath": "staticwebassets\\scss\\_slick-nav.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_slider.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_slider.scss",
       "PackagePath": "staticwebassets\\scss\\_slider.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_varriable.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\_varriable.scss",
       "PackagePath": "staticwebassets\\scss\\_varriable.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\style.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\theme-default.scss",
+      "Id": "C:\\Users\\ASUS\\source\\Resort\\Resort_Demo_Project\\wwwroot\\scss\\theme-default.scss",
       "PackagePath": "staticwebassets\\scss\\theme-default.scss"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\chartjs\\css\\coreui-chartjs.css",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\chartjs\\css\\coreui-chartjs.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\chartjs\\css\\coreui-chartjs.css.map",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\chartjs\\css\\coreui-chartjs.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\chartjs\\js\\coreui-chartjs.js",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\chartjs\\js\\coreui-chartjs.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\chartjs\\js\\coreui-chartjs.js.map",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\chartjs\\js\\coreui-chartjs.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\coreui\\js\\coreui.bundle.min.js",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\coreui\\js\\coreui.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\coreui\\js\\coreui.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\coreui\\js\\coreui.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\css\\brand.min.css",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\css\\brand.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\css\\brand.min.css.map",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\css\\brand.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\css\\flag.min.css",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\css\\flag.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\css\\flag.min.css.map",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\css\\flag.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\css\\free.min.css",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\css\\free.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\css\\free.min.css.map",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\css\\free.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.eot",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.eot"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.ttf",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.ttf"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.woff",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Brand.woff"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.eot",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.eot"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.ttf",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.ttf"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.woff",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\fonts\\CoreUI-Icons-Free.woff"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\brand.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\brand.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ad.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ad.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ae.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ae.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-af.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-af.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ag.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ag.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-al.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-al.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-am.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-am.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ao.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ao.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ar.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ar.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-at.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-at.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-au.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-au.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-az.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-az.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ba.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ba.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bb.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bb.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bd.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bd.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-be.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-be.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bf.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bf.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bh.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bh.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bi.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bi.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bj.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bj.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bo.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bo.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-br.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-br.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bs.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bs.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bt.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bt.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-by.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-by.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-bz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-bz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ca.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ca.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cd.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cd.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cf.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cf.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ch.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ch.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ci.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ci.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ck.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ck.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cl.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cl.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-co.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-co.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cu.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cu.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cv.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cv.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cy.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cy.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-cz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-cz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-de.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-de.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-dj.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-dj.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-dk.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-dk.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-dm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-dm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-do.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-do.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-dz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-dz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ec.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ec.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ee.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ee.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-eg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-eg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-er.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-er.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-es.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-es.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-et.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-et.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-fi.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-fi.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-fj.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-fj.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-fm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-fm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-fr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-fr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ga.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ga.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gb.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gb.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gd.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gd.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ge.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ge.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gh.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gh.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gq.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gq.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gt.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gt.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-gy.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-gy.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-hk.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-hk.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-hn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-hn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-hr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-hr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ht.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ht.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-hu.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-hu.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-id.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-id.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ie.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ie.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-il.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-il.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-in.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-in.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-iq.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-iq.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ir.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ir.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-is.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-is.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-it.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-it.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-jm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-jm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-jo.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-jo.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-jp.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-jp.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ke.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ke.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-kg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-kg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-kh.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-kh.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ki.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ki.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-km.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-km.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-kn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-kn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-kp.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-kp.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-kr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-kr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-kw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-kw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-kz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-kz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-la.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-la.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-lb.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-lb.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-lc.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-lc.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-li.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-li.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-lk.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-lk.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-lr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-lr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ls.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ls.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-lt.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-lt.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-lu.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-lu.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-lv.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-lv.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ly.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ly.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ma.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ma.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mc.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mc.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-md.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-md.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-me.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-me.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mh.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mh.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mk.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mk.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ml.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ml.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mt.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mt.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mu.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mu.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mv.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mv.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mx.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mx.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-my.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-my.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-mz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-mz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-na.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-na.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ne.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ne.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ng.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ng.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ni.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ni.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-nl.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-nl.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-no.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-no.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-np.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-np.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-nr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-nr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-nu.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-nu.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-nz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-nz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-om.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-om.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-pa.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-pa.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-pe.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-pe.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-pg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-pg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ph.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ph.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-pk.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-pk.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-pl.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-pl.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-pt.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-pt.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-pw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-pw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-py.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-py.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-qa.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-qa.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ro.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ro.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-rs.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-rs.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ru.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ru.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-rw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-rw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sa.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sa.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sb.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sb.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sc.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sc.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sd.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sd.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-se.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-se.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-si.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-si.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sk.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sk.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sl.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sl.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-so.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-so.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ss.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ss.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-st.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-st.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sv.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sv.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sy.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sy.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-sz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-sz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-td.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-td.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-th.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-th.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tj.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tj.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tl.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tl.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-to.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-to.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tr.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tr.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tt.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tt.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tv.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tv.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-tz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-tz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ua.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ua.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ug.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ug.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-us.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-us.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-uy.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-uy.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-uz.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-uz.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-va.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-va.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-vc.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-vc.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ve.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ve.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-vg.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-vg.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-vn.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-vn.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ws.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ws.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-xk.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-xk.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-ye.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-ye.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-za.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-za.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-zm.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-zm.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\flag\\cif-zw.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\flag\\cif-zw.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\icons\\svg\\free.svg",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\icons\\svg\\free.svg"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\@coreui\\utils\\js\\coreui-utils.js",
-      "PackagePath": "staticwebassets\\vendors\\@coreui\\utils\\js\\coreui-utils.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\chart.js\\js\\chart.min.js",
-      "PackagePath": "staticwebassets\\vendors\\chart.js\\js\\chart.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\simplebar\\css\\simplebar.css",
-      "PackagePath": "staticwebassets\\vendors\\simplebar\\css\\simplebar.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\Source\\Resort\\Resort_Demo_Project\\wwwroot\\vendors\\simplebar\\js\\simplebar.min.js",
-      "PackagePath": "staticwebassets\\vendors\\simplebar\\js\\simplebar.min.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Resort_Demo_Project.Microsoft.AspNetCore.StaticWebAssets.props",
