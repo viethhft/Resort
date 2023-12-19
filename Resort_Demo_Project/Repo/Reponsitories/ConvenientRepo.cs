@@ -1,6 +1,13 @@
-﻿namespace Resort_Demo_Project.Repo.Reponsitories
+﻿using Resort_Demo_Project.Repo.IReponsitories;
+
+namespace Resort_Demo_Project.Repo.Reponsitories
 {
-	public class Class1
+	public class ConvenientRepo : IConvenientRepo
 	{
+		private readonly IConvenientRepo _convenientRepo;
+		public ConvenientRepo(IConvenientRepo convenientRepo)
+		{
+			_convenientRepo = convenientRepo;
+		}
 	}
 }

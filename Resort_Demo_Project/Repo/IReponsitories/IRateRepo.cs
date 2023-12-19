@@ -1,6 +1,6 @@
 ﻿namespace Resort_Demo_Project.Repo.IReponsitories
 {
-	public interface Interface13
+	public interface IRateRepo
 	{
 	}
 }

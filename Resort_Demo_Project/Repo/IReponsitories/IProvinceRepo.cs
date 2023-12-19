@@ -1,6 +1,6 @@
 ﻿namespace Resort_Demo_Project.Repo.IReponsitories
 {
-	public interface Interface1
+	public interface IProvinceRepo
 	{
 	}
 }

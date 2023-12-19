@@ -1,6 +1,6 @@
 ﻿namespace Resort_Demo_Project.Repo.IReponsitories
 {
-	public interface Interface9
+	public interface IResortDetailServicesRepo
 	{
 	}
 }

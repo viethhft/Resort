@@ -1,6 +1,13 @@
-﻿namespace Resort_Demo_Project.Repo.Reponsitories
+﻿using Resort_Demo_Project.Repo.IReponsitories;
+
+namespace Resort_Demo_Project.Repo.Reponsitories
 {
-	public class Class13
+	public class RateRepo : IRateRepo
 	{
+		private readonly IRateRepo _rateRepo;
+		public RateRepo(IRateRepo rateRepo)
+		{
+			_rateRepo = rateRepo;
+		}
 	}
 }

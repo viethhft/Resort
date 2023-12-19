@@ -1,6 +1,13 @@
-﻿namespace Resort_Demo_Project.Repo.Reponsitories
+﻿using Resort_Demo_Project.Repo.IReponsitories;
+
+namespace Resort_Demo_Project.Repo.Reponsitories
 {
-	public class Class3
+	public class ResortDetailServicesRepo : IResortDetailServicesRepo
 	{
+		private readonly IResortDetailServicesRepo _resortDetailServicesRepo;
+		public ResortDetailServicesRepo(IResortDetailServicesRepo resortDetailServicesRepo)
+		{
+			_resortDetailServicesRepo = resortDetailServicesRepo;
+		}
 	}
 }

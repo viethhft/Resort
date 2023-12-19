@@ -1,6 +1,6 @@
 ﻿namespace Resort_Demo_Project.Repo.IReponsitories
 {
-	public interface Interface7
+	public interface IUserRepo
 	{
 	}
 }
