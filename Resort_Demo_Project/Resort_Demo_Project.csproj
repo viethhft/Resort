@@ -15,4 +15,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Ser\IServices\" />
+    <Folder Include="Ser\Services\" />
+  </ItemGroup>
+
 </Project>

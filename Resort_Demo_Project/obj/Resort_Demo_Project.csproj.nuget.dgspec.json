@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {}
+    "D:\\resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {}
   },
   "projects": {
-    "D:\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {
+    "D:\\resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
+        "projectUniqueName": "D:\\resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
         "projectName": "Resort_Demo_Project",
-        "projectPath": "D:\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
+        "projectPath": "D:\\resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Resort\\Resort_Demo_Project\\obj\\",
+        "outputPath": "D:\\resort\\Resort_Demo_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

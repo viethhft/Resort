@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jGIcCRJcmodZgDh3ooaERpfkCVDsPXAwtBFftYAzRMDVaBQYcQ+Te4iyUrikVE728NNyXtPggYgOELJd4dr2IQ==",
+  "dgSpecHash": "roBmVfl4pqJ8D6ldOwFjwX/wSJ6GMC4Q8K6h2H6Y/4Rba3+oRF5GnB5nzrbq8sDe1OjOclgXSaGCCn5KXDXJNg==",
   "success": true,
-  "projectFilePath": "D:\\Resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
+  "projectFilePath": "D:\\resort\\Resort_Demo_Project\\Resort_Demo_Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
